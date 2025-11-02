@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "62eiLZs0nHc=",
+  "success": true,
+  "projectFilePath": "/tmp/codex-project-eacfac02-8658-4b96-bc0d-3425a2b874b4/SensorDashboard/SensorDashboard.csproj",
+  "expectedPackageFiles": [
+    "/home/claudeuser/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/harfbuzzsharp/7.3.0.2/harfbuzzsharp.7.3.0.2.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/harfbuzzsharp.nativeassets.macos/7.3.0.2/harfbuzzsharp.nativeassets.macos.7.3.0.2.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/harfbuzzsharp.nativeassets.win32/7.3.0.2/harfbuzzsharp.nativeassets.win32.7.3.0.2.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/oxyplot.core/2.2.0/oxyplot.core.2.2.0.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/oxyplot.skiasharp/2.2.0/oxyplot.skiasharp.2.2.0.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/skiasharp/3.119.1/skiasharp.3.119.1.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/skiasharp.harfbuzz/2.88.8/skiasharp.harfbuzz.2.88.8.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/skiasharp.nativeassets.macos/3.119.1/skiasharp.nativeassets.macos.3.119.1.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/skiasharp.nativeassets.win32/3.119.1/skiasharp.nativeassets.win32.3.119.1.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/skiasharp.views.desktop.common/3.119.1/skiasharp.views.desktop.common.3.119.1.nupkg.sha512",
+    "/home/claudeuser/.nuget/packages/skiasharp.views.gtk3/3.119.1/skiasharp.views.gtk3.3.119.1.nupkg.sha512"
+  ],
+  "logs": []
+}
